@@ -69,6 +69,6 @@ Clone o repositório anexo no seu MySQL
 ---
 
 ## Tecnologias utilizadas
-•	MySQL 8.0+
-•	Modelagem com Modelo ER → Modelo Relacional
-•	Scripts SQL (DDL, DML, DQL)
+- MySQL 8.0+
+-	Modelagem com Modelo ER → Modelo Relacional
+-	Scripts SQL (DDL, DML, DQL)
